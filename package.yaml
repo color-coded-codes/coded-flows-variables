@@ -1,0 +1,13 @@
+name: Variables
+pname: variables
+description: Flow variables management
+version: 0.1.0
+icon: code
+private: false
+base: true
+category: flows_management
+python:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '3.12'
